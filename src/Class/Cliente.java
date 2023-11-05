@@ -11,7 +11,7 @@ package Class;
  */
 public class Cliente {
     //probando github
-    //prueba dos desde netbeans
+    //prueba dos desde netbeans sss
     private int ID;
     private int DNI;
     private String nombre;
