@@ -10,6 +10,7 @@ package Class;
  * @author windows2020
  */
 public class Cliente {
+    //probando github
     private int ID;
     private int DNI;
     private String nombre;
